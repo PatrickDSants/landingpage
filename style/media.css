@@ -1,0 +1,62 @@
+@media screen and (max-width: 1215px){
+
+    .header{
+        flex-direction: column;
+    }
+
+    .main{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .subscribe{
+        font-size: 2.5rem;
+        line-height: 20px;
+
+        text-align: center;
+    }
+
+    .services_tittle {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .services {
+       margin: 0 auto;
+       text-align: center;
+    }
+
+    .form{
+        margin: 0 auto;
+        width: 90%;
+    }
+
+    .button {
+        margin-top: 20px;
+        margin-left: 25%;
+        
+    }
+
+    .aside {
+        width: 100%;
+    }
+
+    .input{
+        align-self: center;
+        width: 90%;
+    }
+
+    .img{
+        display: none;
+    }
+
+    ul{
+        text-align: center;
+    }
+
+    .link_git {
+        margin-top: 20px;
+    }
+}
